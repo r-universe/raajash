@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "iRoCoDe"]
+	path = iRoCoDe
+	url = https://github.com/cran/iRoCoDe
+	shallow = true
+	registered = true
